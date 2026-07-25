@@ -16,7 +16,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-## 📅 計畫進度與資料
+## 計畫進度與資料
 * **2026年 7月**：建立 BoNT/C 結構資料庫與受體結合區 (RBD) 標記。
 * **2026年 7月**：篩選已知抗體進行結構改寫。
 * To Be Countinue...
