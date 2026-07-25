@@ -17,11 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-計畫進度與資料:
-* **2026年 7月**：建立 BoNT/C 結構資料庫與受體結合區 (RBD) 標記。
-* **2026年 7月**：篩選已知抗體進行結構改寫。
-* To Be Countinue...
-
 ## 歡迎來到我的研究計畫網頁！本計畫致力於針對肉毒桿菌毒素 C 型 (BoNT/C)，我們透過結構生物資訊學的方法，設計並改良可用於治療禽類之單株抗體。
 
 ## 研究目標
