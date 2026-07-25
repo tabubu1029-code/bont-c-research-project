@@ -17,7 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## 歡迎來到我的研究計畫網頁！本計畫致力於針對肉毒桿菌毒素 C 型 (BoNT/C)，我們透過結構生物資訊學的方法，設計並改良可用於治療禽類之單株抗體。
+## 歡迎來到我的研究計畫網頁！
+本計畫致力於針對肉毒桿菌毒素 C 型 (BoNT/C)，我們透過結構生物資訊學的方法，設計並改良可用於治療禽類之單株抗體。
 
 ## 研究目標
 1. 利用生物資訊學的方式來將過去已用於治療或是發表的單株抗體、疫苗，根據 C 型毒素的結構以及特性進一步進行改造，並增強其實用性。
