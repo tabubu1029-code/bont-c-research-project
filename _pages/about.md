@@ -39,3 +39,7 @@ social: true # includes social icons at the bottom of the page
 * **2026年 7月**：建立 BoNT/C 結構資料庫與受體結合區 (RBD) 標記。
 * **2026年 7月**：篩選已知抗體進行結構改寫。
 * To Be Continued...
+
+## 歡迎來到 BoNT/C AI 研究助理專區！
+請點擊下方連結開始分析口袋特徵與篩選抗體：
+[👉 點擊這裡，前往與 BoNT/C 研究助理對話](https://www.coze.com/store/agent/7667081245704880133?bot_id=true)
